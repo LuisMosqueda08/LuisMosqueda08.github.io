@@ -42,7 +42,7 @@ body {
 
 /* Estilos para los encabezados dentro de los mensajes */
 .message h2 {
-    font-size: 1.7rem; /* Tamaño de fuente */
+    font-size: 1.4rem; /* Tamaño de fuente */
     padding: 1rem 0; /* Agrega relleno superior e inferior */
 }
 
