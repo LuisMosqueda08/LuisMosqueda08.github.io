@@ -70,7 +70,7 @@ body {
 .formulario {
     width: 300px; /* Ancho del formulario */
     padding: 2rem; /* Tamaño del relleno */
-    margin: 2rem; /* Margen exterior */
+    margin: 1rem; /* Margen exterior */
     background-color: rgba(51, 51, 51, 0.602); /* Color de fondo */
     text-align: center; /* Alinea el contenido al centro */
 }
