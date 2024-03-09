@@ -145,6 +145,17 @@ body {
     color: #222; /* Color de texto */
 }
 
+/* Media queries para dispositivos móviles */
+@media screen and (max-width: 768px) {
+    /* Añade aquí tus ajustes de estilo específicos para dispositivos móviles */
+    .container-form {
+        width: 90%; /* Cambiado para ocupar el 95% del ancho del contenedor padre en dispositivos móviles */
+    }
+    .formulario {
+        max-width: 100%; /* Cambiado para ocupar el 100% del ancho del contenedor padre en dispositivos móviles */
+    }
+}
+
 /* Estilos para el formulario de inicio de sesión */
 .sign-in {
     position: absolute; /* Posicionamiento absoluto */
