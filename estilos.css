@@ -68,9 +68,9 @@ body {
 
 /* Estilos para el formulario */
 .formulario {
-    width: 300px; /* Ancho del formulario */
+    width: 400px; /* Ancho del formulario */
     padding: 2rem; /* Tamaño del relleno */
-    margin: 1rem; /* Margen exterior */
+    margin: .3rem; /* Margen exterior */
     background-color: rgba(51, 51, 51, 0.602); /* Color de fondo */
     text-align: center; /* Alinea el contenido al centro */
 }
@@ -139,7 +139,7 @@ body {
     border-radius: 2rem; /* Radio de borde */
     background-color: white; /* Color de fondo */
     font-weight: 600; /* Grosor de la fuente */
-    margin-top: 3rem; /* Margen superior */
+    margin-top: 2rem; /* Margen superior */
     font-size: .8rem; /* Tamaño de fuente */
     cursor: pointer; /* Cambia el cursor a mano */
     color: #222; /* Color de texto */
