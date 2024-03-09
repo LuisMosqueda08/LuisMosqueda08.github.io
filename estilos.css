@@ -149,10 +149,24 @@ body {
 @media screen and (max-width: 768px) {
     /* Añade aquí tus ajustes de estilo específicos para dispositivos móviles */
     .container-form {
-        width: 90%; /* Cambiado para ocupar el 95% del ancho del contenedor padre en dispositivos móviles */
+        width: 95%; /* Cambiado para ocupar el 95% del ancho del contenedor padre en dispositivos móviles */
     }
     .formulario {
         max-width: 100%; /* Cambiado para ocupar el 100% del ancho del contenedor padre en dispositivos móviles */
+    }
+}
+
+/* Media queries para pantallas medianas */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Añade aquí tus ajustes de estilo específicos para pantallas medianas */
+    .container-form {
+        width: 80%; /* Cambiado para ocupar el 80% del ancho del contenedor padre en pantallas medianas */
+    }
+    .formulario {
+        max-width: 80%; /* Cambiado para ocupar el 80% del ancho del contenedor padre en pantallas medianas */
+    }
+    .iconos {
+        max-width: 300px; /* Ancho máximo de los iconos en pantallas medianas */
     }
 }
 
