@@ -139,7 +139,7 @@ body {
     border-radius: 2rem; /* Radio de borde */
     background-color: white; /* Color de fondo */
     font-weight: 600; /* Grosor de la fuente */
-    margin-top: 2rem; /* Margen superior */
+    margin-top: 1.3rem; /* Margen superior */
     font-size: .8rem; /* Tamaño de fuente */
     cursor: pointer; /* Cambia el cursor a mano */
     color: #222; /* Color de texto */
