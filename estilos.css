@@ -77,7 +77,7 @@ body {
 
 /* Estilos para la sección de crear cuenta */
 .create-account {
-    padding: 2.7rem 0; /* Tamaño del relleno */
+    padding: 2rem 0; /* Tamaño del relleno */
     font-size: 1.7rem; /* Tamaño de fuente */
 }
 
@@ -111,7 +111,7 @@ body {
 
 /* Estilos para la sección de cuenta gratis */
 .cuenta-gratis {
-    padding: 2rem 0; /* Tamaño del relleno */
+    padding: 1rem 0; /* Tamaño del relleno */
 }
 
 /* Estilos para los campos de entrada dentro del formulario */
